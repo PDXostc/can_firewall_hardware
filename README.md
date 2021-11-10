@@ -4,7 +4,7 @@ This repo contains the hardware design files for the JLR OSTC CANbus Firewall pr
 Tools in use:
 Microsoft Visio - high level archetecture diagrams
 Microsoft Excel - Bill Of Materials 
-Kicad - Electrical Schematic, PCB Layout, 3D rendering, Gerber Viewer (output), Integrated BOM information. Available at http://kicad-pcb.org/
+Kicad - Electrical Schematic, PCB Layout, 3D rendering, Gerber Viewer (output), Integrated BOM information. Available at http://kicad.org/
 LTspice IV - SPICE simulator, schematic capture and waveform viewer. Available at http://www.linear.com/designtools/software/
 FOXIT - PDF printer and viewer. Available at https://www.foxitsoftware.com/products/pdf-reader/
 
